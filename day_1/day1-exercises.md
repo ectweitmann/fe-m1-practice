@@ -10,7 +10,7 @@
     - The **attribute name** indicates what kind of extra information you are supplying about the element's content. `// It should be written in lowercase`
     - The **value** is the information or setting for the attribute. `// It should be placed in double quotes`
 4. `<head>`: contains information _about_ the page. `// You will   
-   usually find a <title> element inside the <head> element
+   usually find a <title> element inside the <head> element`
    `<title>`: the contents of this element are either shown in the top of the browser, above where you usually type in the URL of the page you want to visit **OR** on the tab for that page.
    `<body>`: everything inside the element is shown inside the main browser window.
 5. Click 'View' -> 'Developer' -> 'View Source'
